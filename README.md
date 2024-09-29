@@ -1,6 +1,6 @@
 # Group-Project-CSC-365
 
-## Calorie and exercise application
+## Calorie/Exercise Tracker
 
 Seth Ryan Langel  slangel@calpoly.edu
 
